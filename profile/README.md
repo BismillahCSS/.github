@@ -1,5 +1,4 @@
 ![Bismillah CSS](https://github.com/user-attachments/assets/751fae65-79ad-43a2-aef7-db0a46fcec8b)
-# BismillahCSS Framework
 
 ![GitHub](https://img.shields.io/badge/GitHub-BismillahCSS-blue?style=flat-square&logo=github)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
